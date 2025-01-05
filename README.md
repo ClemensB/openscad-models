@@ -14,6 +14,7 @@ This section provides a list of the models available in the `models` directory o
 This is a Gridfinity 1.5x1.5 module for holding the Wera Star magnetizer.
 
 - OpenSCAD file: [wera_star_holder.scad](models/gridfinity/wera_star_holder.scad)
+- Makerworld (STL and 3MF): https://makerworld.com/en/models/953733
 
 
 ## Libraries
