@@ -5,7 +5,7 @@ This repository contains OpenSCAD models created by me.
 
 ## Models
 
-This section provides a list of the models available in the `models` directory of this repository.
+This section provides a list of notable models available in the `models` directory of this repository.
 
 ### Gridfinity module for the Wera Star magnetizer
 
@@ -15,6 +15,21 @@ This is a Gridfinity 1.5x1.5 module for holding the Wera Star magnetizer.
 
 - OpenSCAD file: [wera_star_holder.scad](models/gridfinity/wera_star_holder.scad)
 - Makerworld (STL and 3MF): https://makerworld.com/en/models/953733
+
+### Gridfinity modules from Wera and Facom screwdrivers
+
+![](images/screwdriver_holder.jpg)
+
+These are 3x1 Gridfinity modules for holding Wera and Facom (old style) screwdrivers
+designed to be used with the [Gridfinity Universal Wera Screwdriver Inserts by Scubafan](https://makerworld.com/en/models/475390#profileId-393764).
+
+- OpenSCAD files:
+    - For 82mm Wera handles: [screwdriver_holder_wera_82mm.scad](models/gridfinity/screwdriver_holder_wera_82mm.scad)
+    - For the 72.5mm Wera mains tester: [screwdriver_holder_wera_72.5mm_mains_tester.scad](models/gridfinity/screwdriver_holder_wera_72.5mm_mains_tester.scad)
+    - For 120mm Facom handles: [screwdriver_holder_facom_120mm.scad](models/gridfinity/screwdriver_holder_facom_120mm.scad)
+    - For 110mm Facom handles: [screwdriver_holder_facom_110mm.scad](models/gridfinity/screwdriver_holder_facom_110mm.scad)
+    - For 105mm Facom handles: [screwdriver_holder_facom_105mm.scad](models/gridfinity/screwdriver_holder_facom_105mm.scad)
+    - For 96mm Facom handles: [screwdriver_holder_facom_96mm.scad](models/gridfinity/screwdriver_holder_facom_96mm.scad)
 
 
 ## Libraries
