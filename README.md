@@ -7,6 +7,14 @@ This repository contains OpenSCAD models created by me.
 
 This section provides a list of the models available in the `models` directory of this repository.
 
+### Gridfinity module for the Wera Star magnetizer
+
+![](images/wera_star_holder.jpg)
+
+This is a Gridfinity 1.5x1.5 module for holding the Wera Star magnetizer.
+
+- OpenSCAD file: [wera_star_holder.scad](models/gridfinity/wera_star_holder.scad)
+
 
 ## Libraries
 
