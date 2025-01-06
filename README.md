@@ -9,7 +9,7 @@ This section provides a list of notable models available in the `models` directo
 
 ### Gridfinity module for the Wera Star magnetizer
 
-![](images/wera_star_holder.jpg)
+![](images/wera_star_holder_small.jpg)
 
 This is a Gridfinity 1.5x1.5 module for holding the Wera Star magnetizer.
 
@@ -18,7 +18,7 @@ This is a Gridfinity 1.5x1.5 module for holding the Wera Star magnetizer.
 
 ### Gridfinity modules from Wera and Facom screwdrivers
 
-![](images/screwdriver_holder.jpg)
+![](images/screwdriver_holder_small.jpg)
 
 These are 3x1 Gridfinity modules for holding Wera and Facom (old style) screwdrivers
 designed to be used with the [Gridfinity Universal Wera Screwdriver Inserts by Scubafan](https://makerworld.com/en/models/475390#profileId-393764).
