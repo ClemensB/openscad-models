@@ -31,7 +31,8 @@ designed to be used with the [Gridfinity Universal Wera Screwdriver Inserts by S
     - For 105mm Facom handles: [screwdriver_holder_facom_105mm.scad](models/gridfinity/screwdriver_holder_facom_105mm.scad)
     - For 96mm Facom handles: [screwdriver_holder_facom_96mm.scad](models/gridfinity/screwdriver_holder_facom_96mm.scad)
 - Makerworld (STL and 3MF):
-    - For Wera screwdrivers: For https://makerworld.com/en/models/955947
+    - For Wera screwdrivers: https://makerworld.com/en/models/955947
+    - For Facom screwdrivers: https://makerworld.com/en/models/958770
 
 Note: The OpenSCAD files for Facom handles require extra STL files available from TraceParts. See [assets/facom/README.md](assets/facom/README.md).
 
