@@ -33,6 +33,7 @@ designed to be used with the [Gridfinity Universal Wera Screwdriver Inserts by S
 - Makerworld (STL and 3MF):
     - For Wera screwdrivers: For https://makerworld.com/en/models/955947
 
+Note: The OpenSCAD files for Facom handles require extra STL files available from TraceParts. See [assets/facom/README.md](assets/facom/README.md).
 
 ## Libraries
 
